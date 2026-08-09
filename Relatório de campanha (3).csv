@@ -1,0 +1,42 @@
+Relatório de campanha
+1 de maio de 2026 - 9 de agosto de 2026
+Mês,Status da campanha,Campanha,Orçamento,Nome do orçamento,Tipo de orçamento,Código da moeda,Status,Motivos do status,Pontuação de otimização,Tipo de campanha,Impr.,Interações,Taxa de interação,Custo médio,Custo,Custo / todas as conv.,Valor conv.,Valor dos resultados,Tipo de estratégia de lances,Taxa de conv.,Valor conv. / custo,Conversões,Custo / conv.,Valor original da conv.
+maio de 2026,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,45.716,1.384,"3,03%","2,21","3053,11","39,44","21.569,61","Compra: 21.569,61",ROAS desejado,"5,59%","7,06","77,40","39,44","21.569,61"
+junho de 2026,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,45.374,1.572,"3,46%","1,95","3066,29","53,79","24.340,16","Compra: 24.340,16; Visualizações consecutivas no YouTube: 1,00",ROAS desejado,"3,56%","7,94","56,00","54,76","24.340,16"
+julho de 2026,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,45.813,2.021,"4,41%","1,91","3867,70","34,53","56.150,74","Compra: 56.150,74; Visualizações consecutivas no YouTube: 1,00",ROAS desejado,"5,44%","14,52","110,00","35,16","56.150,74"
+agosto de 2026,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,8.172,769,"9,41%","1,68","1288,71","41,57","23.622,35","Compra: 23.622,35",ROAS desejado,"4,03%","18,33","31,00","41,57","23.622,35"
+maio de 2026,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00","0,00"
+junho de 2026,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00","0,00"
+julho de 2026,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00","0,00"
+agosto de 2026,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00","0,00"
+maio de 2026,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00","0,00"
+junho de 2026,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00","0,00"
+julho de 2026,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00","0,00"
+agosto de 2026,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00","0,00"
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,145.075,5.746,"3,96%","1,96","11275,80","40,65","125.682,86","Compra: 125.682,86; Visualizações consecutivas no YouTube: 2,00", --,"4,78%","11,15","274,40","41,09","125.682,86"
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+maio de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+junho de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+julho de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+agosto de 2026,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+maio de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,45.716,1.384,"3,03%","2,21","3053,11","39,44","21.569,61","Compra: 21.569,61", --,"5,59%","7,06","77,40","39,44","21.569,61"
+junho de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,45.374,1.572,"3,46%","1,95","3066,29","53,79","24.340,16","Compra: 24.340,16; Visualizações consecutivas no YouTube: 1,00", --,"3,56%","7,94","56,00","54,76","24.340,16"
+julho de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,45.813,2.021,"4,41%","1,91","3867,70","34,53","56.150,74","Compra: 56.150,74; Visualizações consecutivas no YouTube: 1,00", --,"5,44%","14,52","110,00","35,16","56.150,74"
+agosto de 2026,Total: Campanhas, --, --, --, --,BRL, --,, --, --,8.172,769,"9,41%","1,68","1288,71","41,57","23.622,35","Compra: 23.622,35", --,"4,03%","18,33","31,00","41,57","23.622,35"
+,Total: Conta,,,,,BRL,,,,,145.075,5.746,"3,96%","1,96","11275,80","40,65","125.682,86","Compra: 125.682,86; Visualizações consecutivas no YouTube: 2,00",,"4,78%","11,15","274,40","41,09","125.682,86"
+agosto de 2026,Total: Conta,,,,,BRL,,,,,8.172,769,"9,41%","1,68","1288,71","41,57","23.622,35","Compra: 23.622,35",,"4,03%","18,33","31,00","41,57","23.622,35"
+junho de 2026,Total: Conta,,,,,BRL,,,,,45.374,1.572,"3,46%","1,95","3066,29","53,79","24.340,16","Compra: 24.340,16; Visualizações consecutivas no YouTube: 1,00",,"3,56%","7,94","56,00","54,76","24.340,16"
+julho de 2026,Total: Conta,,,,,BRL,,,,,45.813,2.021,"4,41%","1,91","3867,70","34,53","56.150,74","Compra: 56.150,74; Visualizações consecutivas no YouTube: 1,00",,"5,44%","14,52","110,00","35,16","56.150,74"
+maio de 2026,Total: Conta,,,,,BRL,,,,,45.716,1.384,"3,03%","2,21","3053,11","39,44","21.569,61","Compra: 21.569,61",,"5,59%","7,06","77,40","39,44","21.569,61"
+,Total: Performance Max,,,,,BRL,,,,Performance Max,145.075,5.746,"3,96%","1,96","11275,80","40,65","125.682,86","Compra: 125.682,86; Visualizações consecutivas no YouTube: 2,00",,"4,78%","11,15","274,40","41,09","125.682,86"
+,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00","0,00"
+julho de 2026,Total: Performance Max,,,,,BRL,,,,Performance Max,45.813,2.021,"4,41%","1,91","3867,70","34,53","56.150,74","Compra: 56.150,74; Visualizações consecutivas no YouTube: 1,00",,"5,44%","14,52","110,00","35,16","56.150,74"
+junho de 2026,Total: Performance Max,,,,,BRL,,,,Performance Max,45.374,1.572,"3,46%","1,95","3066,29","53,79","24.340,16","Compra: 24.340,16; Visualizações consecutivas no YouTube: 1,00",,"3,56%","7,94","56,00","54,76","24.340,16"
+agosto de 2026,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00","0,00"
+maio de 2026,Total: Performance Max,,,,,BRL,,,,Performance Max,45.716,1.384,"3,03%","2,21","3053,11","39,44","21.569,61","Compra: 21.569,61",,"5,59%","7,06","77,40","39,44","21.569,61"
+maio de 2026,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00","0,00"
+agosto de 2026,Total: Performance Max,,,,,BRL,,,,Performance Max,8.172,769,"9,41%","1,68","1288,71","41,57","23.622,35","Compra: 23.622,35",,"4,03%","18,33","31,00","41,57","23.622,35"
+junho de 2026,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00","0,00"
+julho de 2026,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00","0,00"

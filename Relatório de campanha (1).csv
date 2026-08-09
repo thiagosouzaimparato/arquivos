@@ -1,0 +1,49 @@
+Relatório de campanha
+1 de maio de 2026 - 9 de agosto de 2026
+Dispositivo,Status da campanha,Campanha,Orçamento,Nome do orçamento,Tipo de orçamento,Código da moeda,Status,Motivos do status,Pontuação de otimização,Tipo de campanha,Impr.,Interações,Taxa de interação,Custo médio,Custo,Custo / todas as conv.,Valor conv.,Valor dos resultados,Tipo de estratégia de lances,Taxa de conv.,Valor conv. / custo,Conversões,Custo / conv.,Valor original da conv.
+Outros,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,0,0, --,0,"0,00",0,"0,00",0,ROAS desejado,"0,00%","0,00","0,00","0,00",0
+Computadores,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,28.793,1.002,"3,48%","3,72","3727,39","37,10","42.707,92","Compra: 42.707,92",ROAS desejado,"10,03%","11,46","100,47","37,10",0
+Celulares,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,114.052,4.610,"4,04%","1,62","7471,92","42,47","82.974,94","Compra: 82.974,94; Visualizações consecutivas no YouTube: 2,00",ROAS desejado,"3,77%","11,10","173,93","42,96",0
+Tablets,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,2.039,64,"3,14%","1,16","74,31",0,"0,00",0,ROAS desejado,"0,00%","0,00","0,00","0,00",0
+Telas de TV,Ativada,[REMIND] [PMAX] Campanha pmax,"178,20", --,Diário,BRL,Qualificado (limitado),limitado pelo orçamento,"85,54",Performance Max,191,70,"36,65%","0,03","2,18","2,18","0,00",0,ROAS desejado,"0,00%","0,00","0,00","0,00",0
+Outros,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00",0
+Computadores,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00",0
+Celulares,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00",0
+Tablets,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00",0
+Telas de TV,Pausada,[REMIND] [SEARCH] Campanha para ecommerce,"20,00", --,Diário,BRL,Pausado,campanha pausada, --,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,CPC manual,"0,00%","0,00","0,00","0,00",0
+Outros,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00",0
+Computadores,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00",0
+Celulares,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00",0
+Tablets,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00",0
+Telas de TV,Pausada,Campaign #1,"43,93", --,Diário,BRL,Pausado,campanha pausada, --,Performance Max,0,0, --,0,"0,00",0,"0,00",0,Maximizar as conversões,"0,00%","0,00","0,00","0,00",0
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,145.075,5.746,"3,96%","1,96","11275,80","40,65","125.682,86","Compra: 125.682,86; Visualizações consecutivas no YouTube: 2,00", --,"4,78%","11,15","274,40","41,09",0
+ --,Total: Campanhas, --, --, --, --,BRL, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+Outros,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+Computadores,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+Celulares,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+Tablets,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+Telas de TV,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+ --,Total: Campanhas, --, --, --, --, --, --,, --, --,0,0, --,0,0,0,0,0, --, --,0,0,0,0
+Computadores,Total: Campanhas, --, --, --, --,BRL, --,, --, --,28.793,1.002,"3,48%","3,72","3727,39","37,10","42.707,92","Compra: 42.707,92", --,"10,03%","11,46","100,47","37,10",0
+Celulares,Total: Campanhas, --, --, --, --,BRL, --,, --, --,114.052,4.610,"4,04%","1,62","7471,92","42,47","82.974,94","Compra: 82.974,94; Visualizações consecutivas no YouTube: 2,00", --,"3,77%","11,10","173,93","42,96",0
+Tablets,Total: Campanhas, --, --, --, --,BRL, --,, --, --,2.039,64,"3,14%","1,16","74,31",0,"0,00",0, --,"0,00%","0,00","0,00","0,00",0
+Telas de TV,Total: Campanhas, --, --, --, --,BRL, --,, --, --,191,70,"36,65%","0,03","2,18","2,18","0,00",0, --,"0,00%","0,00","0,00","0,00",0
+,Total: Conta,,,,,BRL,,,,,145.075,5.746,"3,96%","1,96","11275,80","40,65","125.682,86","Compra: 125.682,86; Visualizações consecutivas no YouTube: 2,00",,"4,78%","11,15","274,40","41,09","125.682,86"
+Celulares,Total: Conta,,,,,BRL,,,,,114.052,4.610,"4,04%","1,62","7471,92","42,47","82.974,94","Compra: 82.974,94; Visualizações consecutivas no YouTube: 2,00",,"3,77%","11,10","173,93","42,96",0
+Telas de TV,Total: Conta,,,,,BRL,,,,,191,70,"36,65%","0,03","2,18","2,18","0,00",0,,"0,00%","0,00","0,00","0,00",0
+Computadores,Total: Conta,,,,,BRL,,,,,28.793,1.002,"3,48%","3,72","3727,39","37,10","42.707,92","Compra: 42.707,92",,"10,03%","11,46","100,47","37,10",0
+Outros,Total: Conta,,,,,BRL,,,,,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+Tablets,Total: Conta,,,,,BRL,,,,,2.039,64,"3,14%","1,16","74,31",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00","0,00"
+,Total: Performance Max,,,,,BRL,,,,Performance Max,145.075,5.746,"3,96%","1,96","11275,80","40,65","125.682,86","Compra: 125.682,86; Visualizações consecutivas no YouTube: 2,00",,"4,78%","11,15","274,40","41,09","125.682,86"
+Telas de TV,Total: Performance Max,,,,,BRL,,,,Performance Max,191,70,"36,65%","0,03","2,18","2,18","0,00",0,,"0,00%","0,00","0,00","0,00",0
+Computadores,Total: Performance Max,,,,,BRL,,,,Performance Max,28.793,1.002,"3,48%","3,72","3727,39","37,10","42.707,92","Compra: 42.707,92",,"10,03%","11,46","100,47","37,10",0
+Telas de TV,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+Celulares,Total: Performance Max,,,,,BRL,,,,Performance Max,114.052,4.610,"4,04%","1,62","7471,92","42,47","82.974,94","Compra: 82.974,94; Visualizações consecutivas no YouTube: 2,00",,"3,77%","11,10","173,93","42,96",0
+Celulares,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+Computadores,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+Tablets,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+Outros,Total: Pesquisa,,,,,BRL,,,,Pesquisa,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+Outros,Total: Performance Max,,,,,BRL,,,,Performance Max,0,0, --,0,"0,00",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
+Tablets,Total: Performance Max,,,,,BRL,,,,Performance Max,2.039,64,"3,14%","1,16","74,31",0,"0,00",0,,"0,00%","0,00","0,00","0,00",0
